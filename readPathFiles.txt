@@ -1,0 +1,2 @@
+./src/txtFiles/listWord_1.txt
+./src/txtFiles/listWord_2.txt

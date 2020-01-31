@@ -1,0 +1,3 @@
+User should be able to select a word (from the list of words) and display which files the word came
+from, display how many times the word showed up in each file and display how many times the word
+showed up in total.
